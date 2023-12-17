@@ -1,0 +1,51 @@
+body {
+    background: black;
+}
+
+body a {
+    text-decoration: none;
+    color: #f0f0f0;
+}
+
+hr {
+    margin: 1rem 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+}
+
+#hero {
+    background-color: blueviolet;
+    box-shadow: 0 12px 12px #9900cc;
+    color: white;
+    border-radius: 15px;
+}
+
+#hero h1 {
+    color: white;
+    font-weight: bold;
+}
+
+#education {
+    background-color: blueviolet;
+    box-shadow: 0 12px 12px #9900cc;
+    color: white;
+    border-radius: 15px;
+}
+
+#education h3 {
+    color: white;
+    font-weight: bold;
+}
+
+.modal-hero .modal-content {
+    background-color: blueviolet;
+    box-shadow: 0 12px 12px #9900cc;
+    color: white;
+    border-radius: 15px;
+}
+
+.listItem {
+    background-color: black;
+    color: white;
+}
